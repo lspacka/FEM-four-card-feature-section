@@ -9,8 +9,8 @@ Users should be able to:
 
 ![](./screenshot.png)
 
-- [Solution](https://your-solution-url.com)
-- [Live Site](https://lspacka.github.io/four-card-feature-section-master/)
+- [Solution](https://www.frontendmentor.io/solutions/four-card-feature-section---html-css-70jMRy9Swp)
+- [Live Site](https://lspacka.github.io/four-card-feature-section/)
 
 ### Built with
 
